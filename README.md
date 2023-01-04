@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/lauirvin/react-use-face-detection-demo">
+  <a href="https://github.com/AnilNITT/Face-Detection-Live-on-Mobile-using-ReactJS">
     <img alt="logo" src="https://i.imgur.com/XSTefBB.png" width="150" />
   </a>
 </p>
